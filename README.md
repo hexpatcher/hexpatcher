@@ -5,7 +5,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7ECEC&center=true&vCenter=true&width=455&lines=slyemane+on+top!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7ECEC&center=true&vCenter=true&width=455&lines=hexpatcher+on+top!" alt="Typing SVG" />
 </a>
 
 ---
@@ -34,9 +34,9 @@
 
 <p>
   <a href="/"  align="left">
-    <img src="https://raw.githubusercontent.com/slyemane/slyemane/main/stats.svg" alt="Stats"/>
+    <img src="https://raw.githubusercontent.com/hexpatcher/hexpatcher/main/stats.svg" alt="Stats"/>
     <br />
-    <img src="https://raw.githubusercontent.com/slyemane/slyemane/main/views-badge.svg" alt="Profile Views" />
+    <img src="https://raw.githubusercontent.com/hexpatcher/hexpatcher/main/views-badge.svg" alt="Profile Views" />
 
   </a>
 </p>
@@ -56,3 +56,4 @@
 </p>
 
 </div>
+
