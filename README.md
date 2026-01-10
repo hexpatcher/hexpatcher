@@ -5,7 +5,7 @@
 
   <!-- Animated Typing Text - Red Neon Style -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF3333&center=true&vCenter=true&width=500&lines=SYSTEM+INITIALIZED...;hexpatcher+on+top!;KERNEL+LEVEL+ACCESS+GRANTED;REVERSE+ENGINEERING+SPECIALIST" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=hexpatcher+on+top!;REVERSE+ENGINEERING+SPECIALIST" alt="Typing SVG" />
   </a>
 
   <!-- Glowing Divider -->
@@ -60,3 +60,4 @@
   <img src="./footer.png" alt="Footer" width="100%" />
 
 </div>
+
