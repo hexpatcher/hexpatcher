@@ -38,7 +38,7 @@
   <h3> // STATISTICS </h3>
 
   <a href="https://github.com/hexpatcher">
-    <img src="https://github-readme-stats.vercel.app/api?username=hexpatcher&show_icons=true&theme=radical&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Stats" />
+  <img src="https://raw.githubusercontent.com/hexpatcher/hexpatcher/main/stats.svg" alt="Stats" />
   </a>
   <br><br>
   <img src="https://raw.githubusercontent.com/hexpatcher/hexpatcher/main/views-badge.svg" alt="Profile Views" />
@@ -60,5 +60,6 @@
   <img src="./footer.png" alt="Footer" width="100%" />
 
 </div>
+
 
 
