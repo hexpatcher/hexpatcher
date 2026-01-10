@@ -17,18 +17,18 @@
   <br>
 
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/C++-8a0000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-ffffff?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assembly-8a0000?style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly-ffffff?style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows_Kernel-000000?style=for-the-badge&logo=windows&logoColor=white" />
 
   <br><br>
 
   <!-- Tools / Software -->
   <img src="https://img.shields.io/badge/Visual_Studio-000000?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/IDA_Pro-8a0000?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDA_Pro-ffffff?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/VMProtect-000000?style=for-the-badge&logo=adguard&logoColor=red" />
-  <img src="https://img.shields.io/badge/Themida-8a0000?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Themida-ffffff?style=for-the-badge&logo=unrealengine&logoColor=white" />
 
   <br><br>
 
@@ -60,4 +60,5 @@
   <img src="./footer.png" alt="Footer" width="100%" />
 
 </div>
+
 
