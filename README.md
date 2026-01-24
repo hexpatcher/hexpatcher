@@ -1,3 +1,4 @@
-<div>
-   <img src="./ascii.png" alt="Header" width="100%" />
+<div align="center">
+   <img src="https://i.imgur.com/4XicIKh.png" alt="ascii" width="100%" />
 </div>
+
